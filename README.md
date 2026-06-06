@@ -13,7 +13,7 @@ hi
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/nhHbgBmT/010.jpg">
+  <img src="">
 </p>
 
 ![](https://i.postimg.cc/x8gxrYsL/QLBN4LHN3UPRBXLPNLMXNCQ63JC4VLZJ.gif) ![](https://i.postimg.cc/hvMyFgC1/TB6CZNPSVVMFZN5NBQUYMCPOYHPIIXUV.gif) ![](https://i.postimg.cc/D05jVFCL/ENJPBSLJQJKTHXI7M4UGCOGMJJIV3QZL.gif)
