@@ -13,8 +13,9 @@ hi
 </p>
 
 <p align="center">
-<img width="350" height="200" src="https://i.postimg.cc/V6HVNZKq/ihzwtv5oxt7g1.gif">
+<img src="https://github.com/user-attachments/assets/984d15e9-ad74-49fa-ba0a-e49d0473682d"/>
 </p>
+
 
 ![](https://i.postimg.cc/x8gxrYsL/QLBN4LHN3UPRBXLPNLMXNCQ63JC4VLZJ.gif) ![](https://i.postimg.cc/hvMyFgC1/TB6CZNPSVVMFZN5NBQUYMCPOYHPIIXUV.gif) ![](https://i.postimg.cc/D05jVFCL/ENJPBSLJQJKTHXI7M4UGCOGMJJIV3QZL.gif) ![](https://i.postimg.cc/k5xdHCXB/XSP3WREACDI5NG57HPLJEM6FTAHI46TB.gif) ![](https://i.postimg.cc/yNhwPTvz/V3YK6MUQR7YLE4LRFCJWU3NKUBYEUBZK.gif)
 
