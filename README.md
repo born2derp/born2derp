@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-hi
+w2i im soooo afk rn. drake 
   </p>
   
 <p align="center">
